@@ -1,0 +1,11 @@
+theme: jekyll-theme-hacker
+title: Azure IoT Workshop | Real-Time Asset Tracking
+description: End-to-end IoT workshop focusing on a real-time asset tracking scenario.
+twitter:
+  username: kartben
+  card: summary_large_image
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: assets/twitter-card.png
