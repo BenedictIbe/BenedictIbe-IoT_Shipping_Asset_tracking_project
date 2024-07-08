@@ -1,4 +1,4 @@
-# Azure IoT Workshop: Real-time asset tracking for international company Contoso Art Shipping
+# Azure IoT: Real-time asset tracking for international company Contoso Art Shipping
 
 ![Contoso Intro image](assets/contoso-art-shipping.png)
 
