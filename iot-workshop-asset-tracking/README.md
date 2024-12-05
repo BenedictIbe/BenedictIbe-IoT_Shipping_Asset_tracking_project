@@ -1,6 +1,6 @@
 # Azure IoT: Real-time asset tracking for international company Contoso Art Shipping
 
-![Contoso Intro image](assets/contoso-art-shipping.png)
+![Contoso Intro image](assets/contoso-art-shipping.png) 
 
 ## Introduction and Scenario
 
@@ -34,9 +34,7 @@ The last part will showcase how to feed your insights (we'll learn how to trigge
 
 You can follow along using the [following slide deck](assets/Azure&#32;IoT&#32;Workshop&#32;-&#32;Realtime&#32;asset&#32;tracking.pdf).
 
-The video recording below walks you through the various steps of the workshop in about 3 hours:
 
-<iframe src="https://www.youtube.com/embed/3A6Lhakfyes" 
     width="560" 
     height="315"
     frameborder="0" 
